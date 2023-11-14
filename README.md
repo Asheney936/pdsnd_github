@@ -8,7 +8,13 @@ The _README.md_ file was created on November 14th, 2023
 **Explore US Bikeshare Data**
 
 ### Description
-The bikeshare data project involves analyzing data from a US bike sharing system. The project includes exploring and visualizing the data to gain insights into bike usage patterns, user demographics, popular routes, and other interesting trends.
+The bikeshare data project involves analyzing data from a US bike sharing system. The project includes exploring and visualizing the data to gain insights into bike usage patterns, user demographics, popular routes, and other interesting trends. 
+Some common tasks in the bikeshare data project may include:
+- Loading and cleaning the data
+- Exploratory data analysis
+- Answering specific questions
+- Visualizing the data, and
+- Drawing conclusions
 
 ### Files used
 There are 3 files that were referenced in this project
